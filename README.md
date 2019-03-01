@@ -1,4 +1,4 @@
-# Proect Utils
+# Project Utils
 - Any standalone, language and project agnostice executable used for project management is a good candidate for this repo
 - Where the go-utils repo is a good place to store go libraries that are imported by multiple repos, this repo is a good place to store source that compiles to executable that are used by multiple repos.
 
